@@ -1,3 +1,18 @@
-{
-    "test": "yes2"
-}
+[
+    {
+        "sku": "division_HLbuQw",
+        "title": "عکاسی",
+        "bundle_count": 20,
+        "course_count": 30,
+        "picture": "https://picsum.photos/200",
+        "alternate_text": "sample text 1"
+    },
+    {
+        "sku": "division_AbcdefG",
+        "title": "برنامه نویسی",
+        "bundle_count": 15,
+        "course_count": 25,
+        "picture": "https://picsum.photos/250",
+        "alternate_text": "sample text 2"
+    }
+]
